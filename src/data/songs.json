@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Waves of Tomorrow",
+        "artist": "Kwanele Mthethwa",
+        "album": "Coastal Vibes",
+        "year": "2023",
+        "location": "Limpopo"
+    },
+    {
+        "title": "Shadows of the Moon",
+        "artist": "Nomusa Sibeko",
+        "album": "Desert Mirage",
+        "year": "2022",
+        "location": "Johannesburg"
+    },
+    {
+        "title": "City Lights",
+        "artist": "Thabiso Nkosi",
+        "album": "Midnight Streets",
+        "year": "2024",
+        "location": "Pretoria"
+    },
+    {
+        "title": "Freedom Song",
+        "artist": "Zola Ndlovu",
+        "album": "Rhythms of Hope",
+        "year": "2021",
+        "location": "Johannesburg"
+    },
+    {
+        "title": "Dance with the Stars",
+        "artist": "Sibongile Dlamini",
+        "album": "Nightfall Echoes",
+        "year": "2023",
+        "location": "Limpopo"
+    },
+    {
+        "title": "Echoes of the Savannah",
+        "artist": "Jabu Molefe",
+        "album": "Safari Beats",
+        "year": "2022",
+        "location": "Pretoria"
+    },
+    {
+        "title": "Under African Skies",
+        "artist": "Lerato Khumalo",
+        "album": "Eternal Horizon",
+        "year": "2024",
+        "location": "Limpopo"
+    },
+    {
+        "title": "Sunset Groove",
+        "artist": "Bongani Mokoena",
+        "album": "Tropical Beats",
+        "year": "2021",
+        "location": "Johannesburg"
+    },
+    {
+        "title": "Heartbeat of the Nation",
+        "artist": "Sifiso Mahlangu",
+        "album": "Unity in Sound",
+        "year": "2023",
+        "location": "Pretoria"
+    }
+]

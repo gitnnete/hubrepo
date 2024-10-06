@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    background-color: rgb(17 24 39);
+}
+
+body {
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    background-color: rgb(17 24 39); /* Ensure consistent background color */
+}
+
+
+
+
+
+
